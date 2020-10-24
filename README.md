@@ -14,7 +14,7 @@ Meu nome é Giuliana,sou apaixonada por aprender e compartilhar e hoje trabalho 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/miniguiti/miniguiti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniguiti&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniguiti&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/miniguiti/miniguiti">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miniguiti&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Giu's GitHub Stats" />
