@@ -5,11 +5,11 @@ Meu nome é Giuliana, sou apaixonada por aprender e compartilhar e hoje trabalho
 
 ## 🔧 Tecnologias & Ferramentas
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=springboot.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=mysql.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=springboot.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Data-MySql-informational?style=flat&logo=mysql.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
