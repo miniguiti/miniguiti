@@ -4,13 +4,14 @@
 Meu nome é Giuliana, sou apaixonada por aprender e compartilhar e hoje trabalho como Desenvolvedora de Sistemas e Monitora Academinca na faculdade BandTec!
 
 ## 🔧 Tecnologias & Ferramentas
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=springboot.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Data-MySql-informational?style=flat&logo=mysql.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java.js&logoColor=white&color=F4D03F)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F4D03F)
+![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=springboot.js&logoColor=white&color=58D68D)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3498DB)
+![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react.js&logoColor=white&color=3498DB)
+![](https://img.shields.io/badge/Data-MySql-informational?style=flat&logo=mysql.js&logoColor=white&color=BDC3C7)
+![](https://img.shields.io/badge/Data-SqlServer-informational?style=flat&logo=sqlserver.js&logoColor=white&color=BDC3C7)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=F1948A)
 
 ## &#x1f4c8; GitHub Stats
 
