@@ -20,3 +20,6 @@ Meu nome é Giuliana, sou apaixonada por aprender e compartilhar e hoje trabalho
 <a href="https://github.com/miniguiti/miniguiti">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miniguiti&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Giu's GitHub Stats" />
 </a>
+
+
+<img src="https://user-images.githubusercontent.com/37668247/132875934-632336bb-6319-4fc7-8d7c-bee29e5af4b5.png" width="10%"><img src="https://user-images.githubusercontent.com/37668247/132877811-d9553f43-5d5c-4ad2-961c-ba93dd6bdfcb.png" width="10%">
