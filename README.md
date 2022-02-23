@@ -1,16 +1,19 @@
-# Olá, pessoal!
-Meu nome é Giuliana, sou apaixonada por aprender e compartilhar e hoje trabalho como Desenvolvedora Backend Java e Professora Assistente na Faculdade BandTec!
+# Olá, pessoal! ☕
 
-## 🔧 Tecnologias & Ferramentas
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java.js&logoColor=white&color=F4D03F)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F4D03F)
-![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=springboot.js&logoColor=white&color=58D68D)
-![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=springframework.js&logoColor=white&color=green)
-![](https://img.shields.io/badge/Lib-React-informational?style=flat&logo=react.js&logoColor=white&color=3498DB)
-![](https://img.shields.io/badge/Data-MySql-informational?style=flat&logo=mysql.js&logoColor=white&color=BDC3C7)
-![](https://img.shields.io/badge/Data-T-Sql-informational?style=flat&logo=tsql.js&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Data-SqlServer-informational?style=flat&logo=sqlserver.js&logoColor=white&color=BDC3C7)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=F1948A)
+Desenvolvedora Backend e Líder Pedagógica na [SPTech School](https://sptech.school/)
+
+## 🔧 Linguagens / Frameworks / Libs
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🔧 Ferramentas / IDEs
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -20,6 +23,3 @@ Meu nome é Giuliana, sou apaixonada por aprender e compartilhar e hoje trabalho
 <a href="https://github.com/miniguiti/miniguiti">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=miniguiti&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Giu's GitHub Stats" />
 </a>
-
-
-<img src="https://user-images.githubusercontent.com/37668247/132875934-632336bb-6319-4fc7-8d7c-bee29e5af4b5.png" width="10%"><img src="https://user-images.githubusercontent.com/37668247/132877811-d9553f43-5d5c-4ad2-961c-ba93dd6bdfcb.png" width="10%">
