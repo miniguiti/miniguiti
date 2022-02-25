@@ -1,3 +1,5 @@
+![readme](https://user-images.githubusercontent.com/37668247/155767047-b841d275-82c3-4f7d-9812-ad8f6872f0b4.png)
+
 # Olá, pessoal! ☕
 
 Desenvolvedora Backend e Líder Pedagógica na [SPTech School](https://sptech.school/)
